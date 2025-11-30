@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-12012011-077035";"";
+"REFERENCE";"BDB 300 - Ratio 4";"";
+"TraceParts.PartTitle";"BDB 300 - Planetary gearbox";"";
+"TraceParts.InstanceId";"10-12012011-077035AJ3DJI4NBP9U9TZ2KBQC27XII";"";
+"DESIGN";"BDB 300 - Planetary gearbox, 1 - Stage, ratio: 4";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"MIJNO";"";
+"TraceParts.PartVersion";"1.1.8";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"MIJNO:10-12012011-077035";"";
